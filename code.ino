@@ -18,7 +18,7 @@ int a = 100;
 distance = distance*0.034/2;//计算距离
 if (distance>a)
 {
-  Serial.println("");//超出100cm不打印
+//超出100cm不打印
   }
   else
   {
