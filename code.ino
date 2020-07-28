@@ -25,5 +25,5 @@ if (distance>a)
     Serial.print(distance);//打印距离
     Serial.println("cm");
     }
-delay(500);
+delay(50);//延迟0.05s
 }
